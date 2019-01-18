@@ -1,4 +1,4 @@
-# unveil.js - A very lightweight jQuery plugin to lazy load images
+# unveil.js - A lightweight Javascript plugin to lazy load images
 
 ## Usage
 
@@ -32,7 +32,8 @@ For a lightweight fallback for users without Javascript, add a link to a plain h
 
 --
 
-This is a fork of [Luis Almeda's original](http://luis-almeida.github.com/unveil/).
+The fallback is a vanilla-js rewrite of [Luis Almeda's original](http://luis-almeida.github.com/unveil/).
+For more on the translation process, check out [my write-up on Medium](https://medium.com/@norabrown/breaking-up-with-jquery-is-hard-to-do-27defe486b11).
 
 ### License
 Unveil is licensed under the [MIT license](http://opensource.org/licenses/MIT).
